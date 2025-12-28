@@ -1,8 +1,8 @@
 # Hi there, I'm Inbar! 👋
 
-### QA Engineer | Manual & Automation Specialist
+### QA Engineer | Manual & Automation
 
-I bridge the gap between human insight and code efficiency. With a strong foundation in **STLC** (Software Testing Life Cycle) and hands-on experience in **Python & Selenium**, I build frameworks that catch bugs before users do.
+Focused on manual and automated testing to ensure software quality.
 
 - 🐞 My motto: *"I find the bugs users shouldn't."*
 - 📄 Check out my portfolio: [**inbar-kr.github.io/qa-portfolio**](https://inbar-kr.github.io/qa-portfolio/)
@@ -59,23 +59,13 @@ I bridge the gap between human insight and code efficiency. With a strong founda
 ---
 
 ### 📚 Methodologies & Knowledge
-- **Methodologies:** Agile, Waterfall, SDLC, STLC
+- **Methodologies:** Agile (Scrum), Waterfall, SDLC, STLC, Defect Life Cycle
 - **Documentation:** STP (Plan), STD (Design), STR (Report)
 - **Data Formats:** JSON, XML, API
 
 ---
 
-### 🧠 Core Competencies
-
-- **Manual Testing:** Comprehensive Test Plans (STP), Test Design (STD), Bug Reporting, Regression & Exploratory Testing.
-- **Automation:** Selenium WebDriver, Page Object Model (POM), Pytest, Data-Driven Testing, Cross-browser Testing.
-- **API Testing:** RESTful services validation, Postman Collections, Payload & Status Code verification.
-- **Methodology:** SDLC/STLC, Agile (Scrum), Defect Life Cycle, Continuous Integration concepts.
-
----
-
 ### 📫 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/inbar-kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inbar-kr" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/inbar-kr" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
