@@ -4,54 +4,73 @@
 
 I bridge the gap between human insight and code efficiency. With a strong foundation in **STLC** (Software Testing Life Cycle) and hands-on experience in **Python & Selenium**, I build frameworks that catch bugs before users do.
 
-- 🔭 I’m currently working on **scalable automation frameworks for E-commerce**.
-- 🌱 I’m currently learning **advanced CI/CD pipelines**.
 - 🐞 My motto: *"I find the bugs users shouldn't."*
 - 📄 Check out my portfolio: [**inbar-kr.github.io/qa-portfolio**](https://inbar-kr.github.io/qa-portfolio/)
 
 ---
 
-### 🛠️ Languages and Tools
-
+### 🤖 Automation & Code
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" />
   </a>
-  
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> 
+</p>
+
+### 🧪 Manual Testing & Tools
+<p align="left">
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  <a href="https://www.gurock.com/testrail/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TestRail-5D2F7D?style=for-the-badge&logo=testrail&logoColor=white" alt="TestRail" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </a>
+  <a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome DevTools" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📚 Methodologies & Knowledge
+- **Methodologies:** Agile, Waterfall, SDLC, STLC
+- **Documentation:** STP (Plan), STD (Design), STR (Report)
+- **Data Formats:** JSON, XML, API
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inbar-kr&show_icons=true&locale=en&theme=merko" alt="Inbar-kr" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inbar-kr&layout=compact&theme=merko" alt="Inbar-kr" />
-</p>
+---
+
+### 🧠 Core Competencies
+
+- **Manual Testing:** Comprehensive Test Plans (STP), Test Design (STD), Bug Reporting, Regression & Exploratory Testing.
+- **Automation:** Selenium WebDriver, Page Object Model (POM), Pytest, Data-Driven Testing, Cross-browser Testing.
+- **API Testing:** RESTful services validation, Postman Collections, Payload & Status Code verification.
+- **Methodology:** SDLC/STLC, Agile (Scrum), Defect Life Cycle, Continuous Integration concepts.
 
 ---
 
